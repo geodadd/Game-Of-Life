@@ -7,4 +7,4 @@ http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 # Copyright
 
-Copyright (c) 2019 George Dadeboe. See LICENSE for details.
+Copyright &copy; 2019 George Dadeboe. See LICENSE for details.
