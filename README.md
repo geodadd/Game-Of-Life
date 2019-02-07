@@ -19,7 +19,7 @@ Finally, in order to run the application, from the current working driectory, ty
 >machine:src user$ java HelloWorld<br>
 >machine:src user$
 
-Once the application is running, you can press `ENTER` to get next iteration or `Q` to exit the application
+Once the application is running, you can hit `ENTER` to get next iteration or hit `Q` to exit the application
 
 # For more information
 See the wikipedia article on Conway's Game of Life:
