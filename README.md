@@ -8,18 +8,15 @@ This implementation is meant for a console-based environment and thus can be run
 To run the application, please ensure you have the latest versions of Java Runtime Environment and Java Compiler are installed.
 
 From the Terminal, navigate to the directory containing your .java files, say ~User/Desktop/Game-Of-Life/src, by typing the cd command below.
->machine:~ user$ cd Desktop/Game-Of-Life/src<br>
->machine:src user$
+>$ cd Desktop/Game-Of-Life/src
 
 The file to compile is GameOfLife.java which is in the current working directory, type the javac command below to compile it.
->machine:src user$ javac GameOfLife.java<br>
->machine:src user$
+>$ javac GameOfLife.java
 
 If everything went well, you should see no error messages. Try deleting project and downloading again to try to resolve the issue.
 
 Finally, in order to run the application, from the current working driectory, type in the following:
->machine:src user$ java GameOfLife<br>
->machine:src user$
+>$ java GameOfLife<br>
 
 Once the application is running, you can hit `ENTER` to get next iteration or hit `Q` to exit the application
 
