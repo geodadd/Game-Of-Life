@@ -1,5 +1,7 @@
 # Game Of Life
-This is John Conway's Game Of Life in Java
+This is Java implementation of John Conway's Game Of Life. The Game of Life is set in an infinite two-dimensional grid inhabited by `cells`. Every cell interacts with up to eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent. 
+
+From an initial seed grid the game `evolves` one iteration at a time. An iteration applies rules to the grid to determine its next state.
 
 # How to use
 This implementation is meant for a console-based environment and thus can be run in terminal(mac) or Command prompt(Windows).
